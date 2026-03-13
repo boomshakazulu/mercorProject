@@ -1,0 +1,28 @@
+{
+  "name": "mercorproject",
+  "version": "1.0.0",
+  "description": "Project for mercor",
+  "homepage": "https://github.com/boomshakazulu/mercorProject#readme",
+  "bugs": {
+    "url": "https://github.com/boomshakazulu/mercorProject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boomshakazulu/mercorProject.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
